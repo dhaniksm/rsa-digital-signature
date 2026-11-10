@@ -1,0 +1,46 @@
+{
+    "identities": {
+        "a66c79990b67a563e8e194ad45daf35a54f165ea283215aa62978b5db7427ca6": {
+            "name": "Tia Raisya Akni",
+            "identity_number": "242410102100",
+            "institution": "Universitas Jember",
+            "registered_at": "2026-11-10T08:11:00+00:00",
+            "fingerprint": "a66c79990b67a563e8e194ad45daf35a54f165ea283215aa62978b5db7427ca6"
+        },
+        "9446c9c9a9dcb51fa81886b3d857752fccc9dadd5b8d17151d870bcbd999810d": {
+            "name": "Tia Raisya Akni",
+            "identity_number": "242410102015",
+            "institution": "Universitas Jember",
+            "registered_at": "2026-11-10T08:26:37+00:00",
+            "fingerprint": "9446c9c9a9dcb51fa81886b3d857752fccc9dadd5b8d17151d870bcbd999810d"
+        },
+        "7e369c42c43aea7759e4f16733ca0af8586fd9e075cd3ac7b3c7bd0273cc3018": {
+            "name": "Bintang",
+            "identity_number": "2040",
+            "institution": "Unej",
+            "registered_at": "2026-11-10T08:27:56+00:00",
+            "fingerprint": "7e369c42c43aea7759e4f16733ca0af8586fd9e075cd3ac7b3c7bd0273cc3018"
+        },
+        "a33b52dea419fd9fdbec8133be93c3da9763e2b0b2c32f6e441a435e9de1086a": {
+            "name": "Dhani",
+            "identity_number": "2050",
+            "institution": "Universitas Jember",
+            "registered_at": "2026-11-10T08:39:36+00:00",
+            "fingerprint": "a33b52dea419fd9fdbec8133be93c3da9763e2b0b2c32f6e441a435e9de1086a"
+        },
+        "270771d8d489608434e7ad347c24e4920d252f8341bbf08e2c565eaf5be956a0": {
+            "name": "dhanii",
+            "identity_number": "2070",
+            "institution": "unej",
+            "registered_at": "2026-11-10T08:42:46+00:00",
+            "fingerprint": "270771d8d489608434e7ad347c24e4920d252f8341bbf08e2c565eaf5be956a0"
+        },
+        "c8b50f531abecd84cd0455c0f7343dd8cd2477fe7277d9db0c206566c9932a5d": {
+            "name": "Bintang Royyan",
+            "identity_number": "242410102040",
+            "institution": "Universitas Jember",
+            "registered_at": "2026-11-10T08:54:48+00:00",
+            "fingerprint": "c8b50f531abecd84cd0455c0f7343dd8cd2477fe7277d9db0c206566c9932a5d"
+        }
+    }
+}
